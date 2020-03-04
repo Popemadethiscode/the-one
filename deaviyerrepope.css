@@ -1,12 +1,17 @@
 h1{text-aligin: center;
 color: blue;}
 
-
+Body{ background-color: Yellow
+}
 p{
   text-aligin: center;
   color: red;
    }
 ul{
   text-aligin: center;
-  color: ;
+  color: maroon;
+   }
+ol{
+  text-aligin: center;
+  color: Purple;
    }
